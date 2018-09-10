@@ -1,0 +1,32 @@
+C:\Users\S4LXenox\Documents\Visual Studio 2010\Projects\RadioSFYK\RadioSFYK\obj\x86\Release\RadioSFYK.vbprojResolveAssemblyReference.cache
+C:\Users\S4LXenox\Documents\Visual Studio 2010\Projects\RadioSFYK\RadioSFYK\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\S4LXenox\Documents\Visual Studio 2010\Projects\RadioSFYK\RadioSFYK\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\S4LXenox\Documents\Visual Studio 2010\Projects\RadioSFYK\RadioSFYK\obj\x86\Release\RadioSFYK.vbproj.ResolveComReference.cache
+C:\Users\S4LXenox\Documents\Visual Studio 2010\Projects\RadioSFYK\RadioSFYK\obj\x86\Release\RadioSFYK.Acercade.resources
+C:\Users\S4LXenox\Documents\Visual Studio 2010\Projects\RadioSFYK\RadioSFYK\obj\x86\Release\RadioSFYK.Donate.resources
+C:\Users\S4LXenox\Documents\Visual Studio 2010\Projects\RadioSFYK\RadioSFYK\obj\x86\Release\RadioSFYK.Form1.resources
+C:\Users\S4LXenox\Documents\Visual Studio 2010\Projects\RadioSFYK\RadioSFYK\obj\x86\Release\RadioSFYK.Form2.resources
+C:\Users\S4LXenox\Documents\Visual Studio 2010\Projects\RadioSFYK\RadioSFYK\obj\x86\Release\RadioSFYK.Form3.resources
+C:\Users\S4LXenox\Documents\Visual Studio 2010\Projects\RadioSFYK\RadioSFYK\obj\x86\Release\RadioSFYK.Resources.resources
+C:\Users\S4LXenox\Documents\Visual Studio 2010\Projects\RadioSFYK\RadioSFYK\obj\x86\Release\RadioSFYK.vbproj.GenerateResource.Cache
+C:\Users\S4LXenox\Documents\Visual Studio 2010\Projects\RadioSFYK\RadioSFYK\bin\Release\RadioSFYK.exe.config
+C:\Users\S4LXenox\Documents\Visual Studio 2010\Projects\RadioSFYK\RadioSFYK\bin\Release\RadioSFYK.exe
+C:\Users\S4LXenox\Documents\Visual Studio 2010\Projects\RadioSFYK\RadioSFYK\bin\Release\RadioSFYK.pdb
+C:\Users\S4LXenox\Documents\Visual Studio 2010\Projects\RadioSFYK\RadioSFYK\bin\Release\RadioSFYK.xml
+C:\Users\S4LXenox\Documents\Visual Studio 2010\Projects\RadioSFYK\RadioSFYK\bin\Release\EO.Base.dll
+C:\Users\S4LXenox\Documents\Visual Studio 2010\Projects\RadioSFYK\RadioSFYK\bin\Release\EO.Web.dll
+C:\Users\S4LXenox\Documents\Visual Studio 2010\Projects\RadioSFYK\RadioSFYK\bin\Release\EO.WebEngine.dll
+C:\Users\S4LXenox\Documents\Visual Studio 2010\Projects\RadioSFYK\RadioSFYK\bin\Release\EO.Base.xml
+C:\Users\S4LXenox\Documents\Visual Studio 2010\Projects\RadioSFYK\RadioSFYK\bin\Release\EO.Web.xml
+C:\Users\S4LXenox\Documents\Visual Studio 2010\Projects\RadioSFYK\RadioSFYK\bin\Release\EO.WebEngine.xml
+C:\Users\S4LXenox\Documents\Visual Studio 2010\Projects\RadioSFYK\RadioSFYK\bin\Release\Interop.WMPLib.dll
+C:\Users\S4LXenox\Documents\Visual Studio 2010\Projects\RadioSFYK\RadioSFYK\bin\Release\AxInterop.WMPLib.dll
+C:\Users\S4LXenox\Documents\Visual Studio 2010\Projects\RadioSFYK\RadioSFYK\obj\x86\Release\RadioSFYK.exe
+C:\Users\S4LXenox\Documents\Visual Studio 2010\Projects\RadioSFYK\RadioSFYK\obj\x86\Release\RadioSFYK.xml
+C:\Users\S4LXenox\Documents\Visual Studio 2010\Projects\RadioSFYK\RadioSFYK\obj\x86\Release\RadioSFYK.pdb
+S:\respaldo salvador\Projects\RadioSFYK\RadioSFYK\bin\Release\RadioSFYK.exe.config
+S:\respaldo salvador\Projects\RadioSFYK\RadioSFYK\obj\x86\Release\Interop.WMPLib.dll
+S:\respaldo salvador\Projects\RadioSFYK\RadioSFYK\obj\x86\Release\AxInterop.WMPLib.dll
+S:\respaldo salvador\Projects\RadioSFYK\RadioSFYK\obj\x86\Release\RadioSFYK.vbproj.ResolveComReference.cache
+S:\respaldo salvador\Projects\RadioSFYK\RadioSFYK\obj\x86\Release\RadioSFYK.xml
+S:\respaldo salvador\Projects\RadioSFYK\RadioSFYK\obj\x86\Release\RadioSFYK.pdb

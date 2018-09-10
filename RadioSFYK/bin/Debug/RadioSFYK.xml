@@ -1,0 +1,118 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RadioSFYK
+</name>
+</assembly>
+<members>
+<member name="P:RadioSFYK.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:RadioSFYK.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="T:RadioSFYK.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="P:RadioSFYK.SynTrack.SelectedThumb">
+	<summary>
+ Gets the thumb that had focus last.
+ </summary>
+	<returns>The thumb that had focus last.</returns>
+</member><member name="P:RadioSFYK.SynTrack.ValueLeft">
+	<summary>
+ Gets or sets the position of the left slider.
+ </summary>
+	<returns>The position of the left slider.</returns>
+</member><member name="P:RadioSFYK.SynTrack.ValueRight">
+	<summary>
+ Gets or sets the position of the right slider.
+ </summary>
+	<returns>The position of the right slider.</returns>
+</member><member name="P:RadioSFYK.SynTrack.Minimum">
+	<summary>
+ Gets or sets the minimum value.
+ </summary>
+	<returns>The minimum value.</returns>
+</member><member name="P:RadioSFYK.SynTrack.Maximum">
+	<summary>
+ Gets or sets the maximum value.
+ </summary>
+	<returns>The maximum value.</returns>
+</member><member name="P:RadioSFYK.SynTrack.Orientation">
+	<summary>
+ Gets or sets the orientation of the control.
+ </summary>
+	<returns>The orientation of the control.</returns>
+</member><member name="P:RadioSFYK.SynTrack.SmallChange">
+	<summary>
+ Gets or sets the amount of positions the closest slider moves when the control is clicked.
+ </summary>
+	<returns>The amount of positions the closest slider moves when the control is clicked.</returns>
+</member><member name="T:RadioSFYK.SynListView.EmbeddedControl">
+	<summary>
+ Structure to hold an embedded control's info
+ </summary>
+</member><member name="M:RadioSFYK.SynListView.GetColumnOrder">
+	<summary>
+ Retrieve the order in which columns appear
+ </summary>
+	<returns>Current display order of column indices</returns>
+</member><member name="M:RadioSFYK.SynListView.GetSubItemBounds(System.Windows.Forms.ListViewItem,System.Int32)">
+	<summary>
+ Retrieve the bounds of a ListViewSubItem
+ </summary>
+	<param name="Item">The Item containing the SubItem</param>
+	<param name="SubItem">Index of the SubItem</param>
+	<returns>Subitem's bounds</returns>
+</member><member name="M:RadioSFYK.SynListView.AddEmbeddedControl(System.Windows.Forms.Control,System.Int32,System.Int32)">
+	<summary>
+ Add a control to the ListView
+ </summary>
+	<param name="c">Control to be added</param>
+	<param name="col">Index of column</param>
+	<param name="row">Index of row</param>
+</member><member name="M:RadioSFYK.SynListView.AddEmbeddedControl(System.Windows.Forms.Control,System.Int32,System.Int32,System.Windows.Forms.DockStyle)">
+	<summary>
+ Add a control to the ListView
+ </summary>
+	<param name="c">Control to be added</param>
+	<param name="col">Index of column</param>
+	<param name="row">Index of row</param>
+	<param name="dock">Location and resize behavior of embedded control</param>
+</member><member name="M:RadioSFYK.SynListView.RemoveEmbeddedControl(System.Windows.Forms.Control)">
+	<summary>
+ Remove a control from the ListView
+ </summary>
+	<param name="c">Control to be removed</param>
+</member><member name="M:RadioSFYK.SynListView.GetEmbeddedControl(System.Int32,System.Int32)">
+	<summary>
+ Retrieve the control embedded at a given location
+ </summary>
+	<param name="col">Index of Column</param>
+	<param name="row">Index of Row</param>
+	<returns>Control found at given location or null if none assigned.</returns>
+</member><member name="T:RadioSFYK.Helpers">
+	<summary>
+ Flat UI Theme
+ Creator: iSynthesis (HF)
+ Version: 1.0.4
+ Date Created: 17/06/2013
+ Date Changed: 26/06/2013
+ UID: 374648
+ For any bugs / errors, PM me.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:RadioSFYK.FlatAlertBox.W">
+	<summary>
+ How to use: FlatAlertBox.ShowControl(Kind, String, Interval)
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

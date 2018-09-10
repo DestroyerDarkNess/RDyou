@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RadioSFYK", "RadioSFYK\RadioSFYK.vbproj", "{9ABBA3D1-DDE9-412A-9B37-1F4A3E0E7396}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ABBA3D1-DDE9-412A-9B37-1F4A3E0E7396}.Debug|x86.ActiveCfg = Debug|x86
+		{9ABBA3D1-DDE9-412A-9B37-1F4A3E0E7396}.Debug|x86.Build.0 = Debug|x86
+		{9ABBA3D1-DDE9-412A-9B37-1F4A3E0E7396}.Release|x86.ActiveCfg = Release|x86
+		{9ABBA3D1-DDE9-412A-9B37-1F4A3E0E7396}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
